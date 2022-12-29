@@ -1,0 +1,56 @@
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 31'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 32'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 33'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 34'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 35'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud766ec9faf48cba13.las, first point: 36'000'000, num points: 470'590
+INFO(indexer.cpp:1656): start indexing chunk r4
+filesize: 31'559'185
+min: 585515.32646913058, 5091712.5200377572, 341.62186406722816
+max: 585641.25918450579, 5091838.4527531322, 467.55457944237924
+INFO(indexer.cpp:1656): start indexing chunk r0654667
+filesize: 1'206'470'650
+min: 585513.35877045291, 5091789.2602861887, 375.07274158875271
+max: 585515.32646913058, 5091791.2279848661, 377.04044026648944
+INFO(indexer.cpp:1656): start indexing chunk r04
+filesize: 38'440'815
+min: 585452.36011144309, 5091712.5200377572, 341.62186406722816
+max: 585515.32646913058, 5091775.4863954447, 404.58822175480373
+INFO(indexer.cpp:1699): finished indexing chunk r4
+WARN(indexer.cpp:1084): Too many duplicate points were encountered. #points: 858903, #unique points: 1
+Duplicates inside node will be dropped! min: 585496.40466358408, 5091735.2139062965, 373.03970916585672, max: 585496.40658516483, 5091735.2158278767, 373.0416307465967
+INFO(indexer.cpp:1699): finished indexing chunk r04
+WARN(indexer.cpp:1084): Too many duplicate points were encountered. #points: 34470590, #unique points: 1
+Duplicates inside node will be dropped! min: 585515.26497854688, 5091790.0596637763, 375.93360976026253, max: 585515.32646913058, 5091790.1211543595, 375.99510034394177
+INFO(indexer.cpp:1699): finished indexing chunk r0654667
